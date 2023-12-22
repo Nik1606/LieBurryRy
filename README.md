@@ -32,7 +32,7 @@ We hope you find these summaries helpful, whether you're deciding which book to 
 
 | Sr No. | Book Name           | Author  | Genre | Description                               |
 |--------|---------------------|---------|-------|-------------------------------------------|
-| 1      | *📚 How to be people magnet*  | Mark Reklau| Genre 1| This is a brief description of Book 1.     |
+| 1      | [*📚 How to be people magnet*](self_help/how_to_become_people_magnet.md)  | Mark Reklau| Genre 1| This is a brief description of Book 1.     |
 | 2      | *📚 Book Title 2*   | Author 2| Genre 2| This is a brief description of Book 2.     |
 | 3      | *📚 Book Title 3*   | Author 3| Genre 3| This is a brief description of Book 3.     |
 | ...    | ...                 | ...     | ...   | ...                                       |
