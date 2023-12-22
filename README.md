@@ -9,13 +9,12 @@ Welcome to *LieBurryy*, your go-to place for insightful and concise book summari
 
 In this repository, you'll find summaries for a wide range of books, including but not limited to:
 
-- Fiction 📚
-- Non-fiction 🌍
-- Biographies 👥
-- Business 💼
-- Self-help 🧘‍♀️
-- Science 🧪
-- History 🏛️
+- [Fiction 📚](fiction/)
+- [Non-fiction 🌍](non_fiction/)
+- [Biographies 👥](biographies/)
+- [Business 💼](buisness/)
+- [Self-help 🧘‍♀️](self-help/)
+- [Technology 🧪](technology/)
 
 Each summary is contained in its own Markdown (.md) file, making them easy to read directly on GitHub.
 
