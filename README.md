@@ -1,8 +1,5 @@
 # 📚 LieBurryy: Unraveling Books, One Summary at a Time 📚
 
-![LieBurryy Banner] 
-# (path/to/banner/image.png)
-
 Welcome to *LieBurryy*, your go-to place for insightful and concise book summaries. Our mission is to help you unravel the essence of each book without having to burrow through hundreds of pages.
 
 ## 📖 What's Inside?
@@ -30,8 +27,6 @@ We welcome contributions! If you've read a book that isn't yet summarized in thi
 
 We hope you find these summaries helpful, whether you're deciding which book to read next, or simply want to refresh your memory on a book you've read before. Enjoy your journey through the world of books!
 
-![LieBurryy Footer](
-# path/to/footer/image.png)
 
 ## 📚 Table of Contents
 
